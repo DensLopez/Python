@@ -1,17 +1,16 @@
 <p align="center"><a href="https://www.python.org/"><img src="codes/images/logo.png" alt="MarkText" width="100" height="100"></p>
 
-<h1 align="center"><a href="https://platzi.com/cursos/python-pip/">Python</a></h1>
-
+<h1 align="center"><a href="https://www.python.org/">Python</a></h1>
 
 <div align="center">
   <sub>Este proyecto fue hecho en VS Code con Jupyter Notebooks. Por
     <a href="https://github.com/DensLopez">Dennis.</a>
   </sub>
 </div>
-<br />
 <h1></h1>
 <br />
 <h1 align="center">Acerca de </h1>
+
 Este repositorio está relacionado al lenguaje Python, desde fundamentos hasta temas específicos. Pretendo que sea una guía para el entendimiento del lenguaje, contiene archivos ["ipynb"](codes) con los códigos y apuntes desarrollados.
 <br />
 
@@ -19,9 +18,7 @@ Este repositorio está relacionado al lenguaje Python, desde fundamentos hasta t
 
 ## Temario
 
-### Fundamentos
-
-- - [code001.ipynb](codes/code001.ipynb)
+- [Fundamentos](codes/code001.ipynb)
 - - [code002.ipynb](codes/code002.ipynb)
 - - [code003.ipynb](codes/code003.ipynb), [code003.html](codes/html/code003.html)
 - - [code004.ipynb](codes/code004.ipynb), [code004.html](codes/html/code004.html)
